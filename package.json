@@ -1,7 +1,7 @@
 {
-  "name": "startable-note",
+  "name": "think",
   "private": true,
-  "author": "startable.cn",
+  "author": "fantasticit",
   "scripts": {
     "clean": "npx rimraf ./node_modules ./packages/**/node_modules ./packages/**/.next",
     "dev": "concurrently 'pnpm:dev:*'",
